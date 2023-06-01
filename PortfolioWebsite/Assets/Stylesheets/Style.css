@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@600&display=swap');
+body{
+    background: #B4EDD2;
+    font-family: 'Dosis', sans-serif;
+}
+.navbar-nav,.nav-link{
+  padding: 0 18vw;
+}
+
+  header,img{
+    width: 55%;
+    margin: auto;
+    margin-bottom: 1vh;
+    border-radius: 5%;
+  }
+#main{
+  height: 98%;
+}
+.card{
+  background-color: #fafcd7;
+}
+.card{
+  overflow: hidden;
+}
+
+.card-text{
+  word-wrap: break-word;
+}
